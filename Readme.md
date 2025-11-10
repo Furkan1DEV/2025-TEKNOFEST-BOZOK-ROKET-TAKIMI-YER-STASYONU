@@ -56,3 +56,6 @@ Proje dosyasını (.sln uzantılı) Visual Studio ile açın.
 NuGet paketlerini geri yükleyin (Restore) ve çözümü derleyin (Build).
 
 Uygulamayı çalıştırın ve seri port ayarlarını (COM Port, Baud Rate) roket sistemi ile eşleşecek şekilde yapılandırın.
+<p align="center">
+  <img src= alt=https://github.com/Furkan1DEV/2025-TEKNOFEST-BOZOK-ROKET-TAKIMI-YER-STASYONU/blob/main/yer_istasyonu_arayuzu.png?raw=true "Yer İstasyonu Arayüzü" width="700"/>
+</p>
