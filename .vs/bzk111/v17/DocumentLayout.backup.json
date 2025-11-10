@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fzsyl\\Desktop\\Bozok Final Countdown - V2.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD93053A-B3B8-40FF-8D1B-842770DFEA66}|bzk111\\bzk111.csproj|c:\\users\\fzsyl\\desktop\\bozok final countdown - v2.4\\bzk111\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD93053A-B3B8-40FF-8D1B-842770DFEA66}|bzk111\\bzk111.csproj|solutionrelative:bzk111\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD93053A-B3B8-40FF-8D1B-842770DFEA66}|bzk111\\bzk111.csproj|C:\\Users\\fzsyl\\Desktop\\Bozok Final Countdown - V2.4\\bzk111\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD93053A-B3B8-40FF-8D1B-842770DFEA66}|bzk111\\bzk111.csproj|solutionrelative:bzk111\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD93053A-B3B8-40FF-8D1B-842770DFEA66}|bzk111\\bzk111.csproj|C:\\Users\\fzsyl\\Desktop\\Bozok Final Countdown - V2.4\\bzk111\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD93053A-B3B8-40FF-8D1B-842770DFEA66}|bzk111\\bzk111.csproj|solutionrelative:bzk111\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fzsyl\\Desktop\\Bozok Final Countdown - V2.4\\bzk111\\Form1.cs",
+              "RelativeDocumentMoniker": "bzk111\\Form1.cs",
+              "ToolTip": "C:\\Users\\fzsyl\\Desktop\\Bozok Final Countdown - V2.4\\bzk111\\Form1.cs [Design]",
+              "RelativeToolTip": "bzk111\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T18:19:07.354Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fzsyl\\Desktop\\Bozok Final Countdown - V2.4\\bzk111\\Form1.cs",
+              "RelativeDocumentMoniker": "bzk111\\Form1.cs",
+              "ToolTip": "C:\\Users\\fzsyl\\Desktop\\Bozok Final Countdown - V2.4\\bzk111\\Form1.cs",
+              "RelativeToolTip": "bzk111\\Form1.cs",
+              "ViewState": "AgIAAGEDAAAAAAAAAAAAAFYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T16:35:10.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\fzsyl\\Desktop\\Bozok Final Countdown - V2.4\\bzk111\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "bzk111\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\fzsyl\\Desktop\\Bozok Final Countdown - V2.4\\bzk111\\Form1.Designer.cs",
+              "RelativeToolTip": "bzk111\\Form1.Designer.cs",
+              "ViewState": "AgIAAGIFAAAAAAAAAAAcwHkFAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:12:05.823Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

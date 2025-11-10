@@ -1,0 +1,832 @@
+C:\Users\fzsyl\source\repos\bzk111\bzk111\obj\Debug\bzk111.csproj.AssemblyReference.cache
+C:\Users\fzsyl\source\repos\bzk111\bzk111\obj\Debug\LoRaYerIstasyonu.Form1.resources
+C:\Users\fzsyl\source\repos\bzk111\bzk111\obj\Debug\bzk111.Properties.Resources.resources
+C:\Users\fzsyl\source\repos\bzk111\bzk111\obj\Debug\bzk111.csproj.GenerateResource.cache
+C:\Users\fzsyl\source\repos\bzk111\bzk111\obj\Debug\bzk111.csproj.CoreCompileInputs.cache
+C:\Users\fzsyl\source\repos\bzk111\bzk111\bin\Debug\bzk111.exe.config
+C:\Users\fzsyl\source\repos\bzk111\bzk111\bin\Debug\bzk111.exe
+C:\Users\fzsyl\source\repos\bzk111\bzk111\bin\Debug\bzk111.pdb
+C:\Users\fzsyl\source\repos\bzk111\bzk111\bin\Debug\GMap.NET.Core.dll
+C:\Users\fzsyl\source\repos\bzk111\bzk111\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\fzsyl\source\repos\bzk111\bzk111\obj\Debug\bzk111.csproj.Up2Date
+C:\Users\fzsyl\source\repos\bzk111\bzk111\obj\Debug\bzk111.exe
+C:\Users\fzsyl\source\repos\bzk111\bzk111\obj\Debug\bzk111.pdb
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\bzk111.exe.config
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\bzk111.exe
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\bzk111.pdb
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\GMap.NET.Core.dll
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\HelixToolkit.dll
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\OpenTK.dll
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\OpenTK.GLControl.dll
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\SharpDX.dll
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\System.Buffers.dll
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\System.Memory.dll
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\HelixToolkit.xml
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\OpenTK.pdb
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\OpenTK.xml
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\OpenTK.GLControl.xml
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\SharpDX.pdb
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\SharpDX.Direct3D9.pdb
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\System.Buffers.xml
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\System.Memory.xml
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fzsyl\Desktop\bzk111\bzk111\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\fzsyl\Desktop\bzk111\bzk111\obj\Debug\bzk111.csproj.AssemblyReference.cache
+C:\Users\fzsyl\Desktop\bzk111\bzk111\obj\Debug\LoRaYerIstasyonu.Form1.resources
+C:\Users\fzsyl\Desktop\bzk111\bzk111\obj\Debug\bzk111.Properties.Resources.resources
+C:\Users\fzsyl\Desktop\bzk111\bzk111\obj\Debug\bzk111.csproj.GenerateResource.cache
+C:\Users\fzsyl\Desktop\bzk111\bzk111\obj\Debug\bzk111.csproj.CoreCompileInputs.cache
+C:\Users\fzsyl\Desktop\bzk111\bzk111\obj\Debug\bzk111.csproj.Up2Date
+C:\Users\fzsyl\Desktop\bzk111\bzk111\obj\Debug\bzk111.exe
+C:\Users\fzsyl\Desktop\bzk111\bzk111\obj\Debug\bzk111.pdb
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\bzk111.exe.config
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\bzk111.exe
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\bzk111.pdb
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\GMap.NET.Core.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\HelixToolkit.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\OpenTK.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\OpenTK.GLControl.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\SharpDX.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\System.Buffers.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\System.Memory.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\HelixToolkit.xml
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\OpenTK.pdb
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\OpenTK.xml
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\OpenTK.GLControl.xml
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\SharpDX.pdb
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\SharpDX.Direct3D9.pdb
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\System.Buffers.xml
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\System.Memory.xml
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\obj\Debug\bzk111.csproj.AssemblyReference.cache
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\obj\Debug\LoRaYerIstasyonu.Form1.resources
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\obj\Debug\bzk111.Properties.Resources.resources
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\obj\Debug\bzk111.csproj.GenerateResource.cache
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\obj\Debug\bzk111.csproj.CoreCompileInputs.cache
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\obj\Debug\bzk111.csproj.Up2Date
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\obj\Debug\bzk111.exe
+C:\Users\fzsyl\Desktop\bzk111 - Copy\bzk111\obj\Debug\bzk111.pdb
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\bzk111.exe.config
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\bzk111.exe
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\bzk111.pdb
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\GMap.NET.Core.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\HelixToolkit.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\OpenTK.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\OpenTK.GLControl.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\SharpDX.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\System.Buffers.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\System.Memory.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\HelixToolkit.xml
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\OpenTK.pdb
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\OpenTK.xml
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\OpenTK.GLControl.xml
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\SharpDX.pdb
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\SharpDX.Direct3D9.pdb
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\System.Buffers.xml
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\System.Memory.xml
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\obj\Debug\bzk111.csproj.AssemblyReference.cache
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\obj\Debug\LoRaYerIstasyonu.Form1.resources
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\obj\Debug\bzk111.Properties.Resources.resources
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\obj\Debug\bzk111.csproj.GenerateResource.cache
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\obj\Debug\bzk111.csproj.CoreCompileInputs.cache
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\obj\Debug\bzk111.csproj.Up2Date
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\obj\Debug\bzk111.exe
+C:\Users\fzsyl\Desktop\bzk111 - Copy - Copy\bzk111\obj\Debug\bzk111.pdb
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\bzk111.exe.config
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\bzk111.exe
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\bzk111.pdb
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\GMap.NET.Core.dll
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\HelixToolkit.dll
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\OpenTK.dll
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\OpenTK.GLControl.dll
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\SharpDX.dll
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\System.Buffers.dll
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\System.Memory.dll
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\HelixToolkit.xml
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\OpenTK.pdb
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\OpenTK.xml
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\OpenTK.GLControl.xml
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\SharpDX.pdb
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\SharpDX.Direct3D9.pdb
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\System.Buffers.xml
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\System.Memory.xml
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\obj\Debug\bzk111.csproj.AssemblyReference.cache
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\obj\Debug\LoRaYerIstasyonu.Form1.resources
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\obj\Debug\bzk111.Properties.Resources.resources
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\obj\Debug\bzk111.csproj.GenerateResource.cache
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\obj\Debug\bzk111.csproj.CoreCompileInputs.cache
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\obj\Debug\bzk111.csproj.Up2Date
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\obj\Debug\bzk111.exe
+C:\Users\fzsyl\Desktop\BozokSon1\BozokSon1\bzk111\obj\Debug\bzk111.pdb
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\bin\Debug\bzk111.exe.config
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\bin\Debug\bzk111.exe
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\bin\Debug\bzk111.pdb
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\bin\Debug\GMap.NET.Core.dll
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\bin\Debug\OpenTK.dll
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\bin\Debug\OpenTK.GLControl.dll
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\bin\Debug\System.Buffers.dll
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\bin\Debug\System.Memory.dll
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\bin\Debug\OpenTK.pdb
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\bin\Debug\OpenTK.xml
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\bin\Debug\OpenTK.GLControl.xml
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\bin\Debug\System.Buffers.xml
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\bin\Debug\System.Memory.xml
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\obj\Debug\bzk111.csproj.AssemblyReference.cache
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\obj\Debug\LoRaYerIstasyonu.Form1.resources
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\obj\Debug\bzk111.Properties.Resources.resources
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\obj\Debug\bzk111.csproj.GenerateResource.cache
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\obj\Debug\bzk111.csproj.CoreCompileInputs.cache
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\obj\Debug\bzk111.csproj.Up2Date
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\obj\Debug\bzk111.exe
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\obj\Debug\bzk111.pdb
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\bin\Debug\Models\payload.obj
+C:\Users\fzsyl\Desktop\lora-y-i - Kopya\BozokSon1\bzk111\bin\Debug\Models\rocket.obj
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\bin\Debug\Models\payload.obj
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\bin\Debug\Models\rocket.obj
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\bin\Debug\bzk111.exe.config
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\bin\Debug\bzk111.exe
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\bin\Debug\bzk111.pdb
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\bin\Debug\GMap.NET.Core.dll
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.dll
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.GLControl.dll
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Buffers.dll
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Memory.dll
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.pdb
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.xml
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.GLControl.xml
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Buffers.xml
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Memory.xml
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.csproj.AssemblyReference.cache
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\obj\Debug\LoRaYerIstasyonu.Form1.resources
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.Properties.Resources.resources
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.csproj.GenerateResource.cache
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.csproj.CoreCompileInputs.cache
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.csproj.Up2Date
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.exe
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.pdb
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\Models\payload.obj
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\Models\rocket.obj
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\bzk111.exe.config
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\bzk111.exe
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\bzk111.pdb
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\GMap.NET.Core.dll
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.dll
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.GLControl.dll
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Buffers.dll
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Memory.dll
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.pdb
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.xml
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.GLControl.xml
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Buffers.xml
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Memory.xml
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.csproj.AssemblyReference.cache
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\LoRaYerIstasyonu.Form1.resources
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.Properties.Resources.resources
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.csproj.GenerateResource.cache
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.csproj.CoreCompileInputs.cache
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.csproj.Up2Date
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.exe
+C:\Users\fzsyl\Desktop\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.pdb
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\Models\payload.obj
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\Models\rocket.obj
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\bzk111.exe.config
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\bzk111.exe
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\bzk111.pdb
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\GMap.NET.Core.dll
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.dll
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.GLControl.dll
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Buffers.dll
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Memory.dll
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.pdb
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.xml
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.GLControl.xml
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Buffers.xml
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Memory.xml
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.csproj.AssemblyReference.cache
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.exe.config
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\LoRaYerIstasyonu.Form1.resources
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.Properties.Resources.resources
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.csproj.GenerateResource.cache
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.csproj.CoreCompileInputs.cache
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.csproj.Up2Date
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.exe
+C:\Users\kdmsy\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.pdb
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\Models\payload.obj
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\Models\rocket.obj
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\bzk111.exe
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\bzk111.pdb
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\GMap.NET.Core.dll
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.dll
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.GLControl.dll
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Memory.dll
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.pdb
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.xml
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.GLControl.xml
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Buffers.xml
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Memory.xml
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\LoRaYerIstasyonu.Form1.resources
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.Properties.Resources.resources
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.csproj.Up2Date
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.exe
+C:\Users\pc\Desktop\masaüstü\Bozok yer istasyonu V1453 - Kopya - Kopya\Bozok yer istasyonu V1453 - Kopya\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\bin\Debug\Models\payload.obj
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\bin\Debug\Models\rocket.obj
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\bin\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\bin\Debug\bzk111.exe
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\bin\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\bin\Debug\GMap.NET.Core.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.GLControl.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Memory.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.pdb
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.xml
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\bin\Debug\OpenTK.GLControl.xml
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Buffers.xml
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Memory.xml
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\obj\Debug\LoRaYerIstasyonu.Form1.resources
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.Properties.Resources.resources
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.csproj.Up2Date
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.exe
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453\bzk111\obj\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\bin\Debug\Models\payload.obj
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\bin\Debug\Models\pg.obj
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\bin\Debug\Models\rocket.obj
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\bin\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\bin\Debug\bzk111.exe
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\bin\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\bin\Debug\GMap.NET.Core.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\bin\Debug\OpenTK.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\bin\Debug\OpenTK.GLControl.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\bin\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\bin\Debug\System.Memory.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\bin\Debug\OpenTK.pdb
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\bin\Debug\OpenTK.xml
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\bin\Debug\OpenTK.GLControl.xml
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\bin\Debug\System.Buffers.xml
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\bin\Debug\System.Memory.xml
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\obj\Debug\bzk111.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\obj\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\obj\Debug\LoRaYerIstasyonu.Form1.resources
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\obj\Debug\bzk111.Properties.Resources.resources
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\obj\Debug\bzk111.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\obj\Debug\bzk111.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\obj\Debug\bzk111.csproj.Up2Date
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\obj\Debug\bzk111.exe
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya\bzk111\obj\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\bin\Debug\Models\payload.obj
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\bin\Debug\Models\pg.obj
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\bin\Debug\Models\rocket.obj
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\bin\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\bin\Debug\bzk111.exe
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\bin\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\bin\Debug\GMap.NET.Core.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\bin\Debug\OpenTK.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\bin\Debug\OpenTK.GLControl.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\bin\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\bin\Debug\System.Memory.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\bin\Debug\OpenTK.pdb
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\bin\Debug\OpenTK.xml
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\bin\Debug\OpenTK.GLControl.xml
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\bin\Debug\System.Buffers.xml
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\bin\Debug\System.Memory.xml
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\obj\Debug\bzk111.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\obj\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\obj\Debug\LoRaYerIstasyonu.Form1.resources
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\obj\Debug\bzk111.Properties.Resources.resources
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\obj\Debug\bzk111.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\obj\Debug\bzk111.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\obj\Debug\bzk111.csproj.Up2Date
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\obj\Debug\bzk111.exe
+C:\Users\pc\Desktop\Bozok yer istasyonu V1453 - Kopya - Kopya - Kopya\bzk111\obj\Debug\bzk111.pdb
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\bin\Debug\Models\payload.obj
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\bin\Debug\Models\pg.obj
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\bin\Debug\Models\rocket.obj
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\bin\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\bin\Debug\bzk111.exe
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\bin\Debug\bzk111.pdb
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\bin\Debug\GMap.NET.Core.dll
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\bin\Debug\OpenTK.dll
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\bin\Debug\OpenTK.GLControl.dll
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\bin\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\bin\Debug\System.Memory.dll
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\bin\Debug\OpenTK.pdb
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\bin\Debug\OpenTK.xml
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\bin\Debug\OpenTK.GLControl.xml
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\bin\Debug\System.Buffers.xml
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\bin\Debug\System.Memory.xml
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\obj\Debug\bzk111.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\obj\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\obj\Debug\LoRaYerIstasyonu.Form1.resources
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\obj\Debug\bzk111.Properties.Resources.resources
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\obj\Debug\bzk111.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\obj\Debug\bzk111.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\obj\Debug\bzk111.csproj.Up2Date
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\obj\Debug\bzk111.exe
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\bzk111\obj\Debug\bzk111.pdb
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\bin\Debug\Models\payload.obj
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\bin\Debug\Models\pg.obj
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\bin\Debug\Models\rocket.obj
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\bin\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\bin\Debug\bzk111.exe
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\bin\Debug\bzk111.pdb
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\bin\Debug\GMap.NET.Core.dll
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\bin\Debug\OpenTK.dll
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\bin\Debug\OpenTK.GLControl.dll
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\bin\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\bin\Debug\System.Memory.dll
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\bin\Debug\OpenTK.pdb
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\bin\Debug\OpenTK.xml
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\bin\Debug\OpenTK.GLControl.xml
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\bin\Debug\System.Buffers.xml
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\bin\Debug\System.Memory.xml
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\obj\Debug\bzk111.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\obj\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\obj\Debug\LoRaYerIstasyonu.Form1.resources
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\obj\Debug\bzk111.Properties.Resources.resources
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\obj\Debug\bzk111.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\obj\Debug\bzk111.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\obj\Debug\bzk111.csproj.Up2Date
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\obj\Debug\bzk111.exe
+C:\Users\pc\Desktop\BZK YER IST\Bozok Final Countdown\Bozok Final Countdown\bzk111\obj\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\bin\Debug\Models\payload.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\bin\Debug\Models\pg.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\bin\Debug\Models\rocket.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\bin\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\bin\Debug\bzk111.exe
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\bin\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\bin\Debug\GMap.NET.Core.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\bin\Debug\OpenTK.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\bin\Debug\OpenTK.GLControl.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\bin\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\bin\Debug\System.Memory.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\bin\Debug\OpenTK.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\bin\Debug\OpenTK.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\bin\Debug\OpenTK.GLControl.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\bin\Debug\System.Buffers.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\bin\Debug\System.Memory.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\obj\Debug\bzk111.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\obj\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\obj\Debug\LoRaYerIstasyonu.Form1.resources
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\obj\Debug\bzk111.Properties.Resources.resources
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\obj\Debug\bzk111.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\obj\Debug\bzk111.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\obj\Debug\bzk111.csproj.Up2Date
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\obj\Debug\bzk111.exe
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.4\bzk111\obj\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\bin\Debug\Models\payload.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\bin\Debug\Models\pg.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\bin\Debug\Models\rocket.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\bin\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\bin\Debug\bzk111.exe
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\bin\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\bin\Debug\GMap.NET.Core.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\bin\Debug\OpenTK.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\bin\Debug\OpenTK.GLControl.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\bin\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\bin\Debug\System.Memory.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\bin\Debug\OpenTK.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\bin\Debug\OpenTK.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\bin\Debug\OpenTK.GLControl.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\bin\Debug\System.Buffers.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\bin\Debug\System.Memory.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\obj\Debug\bzk111.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\obj\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\obj\Debug\LoRaYerIstasyonu.Form1.resources
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\obj\Debug\bzk111.Properties.Resources.resources
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\obj\Debug\bzk111.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\obj\Debug\bzk111.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\obj\Debug\bzk111.csproj.Up2Date
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\obj\Debug\bzk111.exe
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6\bzk111\obj\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\bin\Debug\Models\payload.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\bin\Debug\Models\pg.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\bin\Debug\Models\rocket.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\bin\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\bin\Debug\bzk111.exe
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\bin\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\bin\Debug\GMap.NET.Core.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\bin\Debug\OpenTK.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\bin\Debug\OpenTK.GLControl.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\bin\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\bin\Debug\System.Memory.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\bin\Debug\OpenTK.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\bin\Debug\OpenTK.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\bin\Debug\OpenTK.GLControl.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\bin\Debug\System.Buffers.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\bin\Debug\System.Memory.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\obj\Debug\bzk111.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\obj\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\obj\Debug\LoRaYerIstasyonu.Form1.resources
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\obj\Debug\bzk111.Properties.Resources.resources
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\obj\Debug\bzk111.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\obj\Debug\bzk111.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\obj\Debug\bzk111.csproj.Up2Date
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\obj\Debug\bzk111.exe
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.6 - Kopya\bzk111\obj\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\bin\Debug\Models\payload.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\bin\Debug\Models\pg.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\bin\Debug\Models\rocket.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\bin\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\bin\Debug\bzk111.exe
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\bin\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\bin\Debug\GMap.NET.Core.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\bin\Debug\OpenTK.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\bin\Debug\OpenTK.GLControl.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\bin\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\bin\Debug\System.Memory.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\bin\Debug\OpenTK.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\bin\Debug\OpenTK.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\bin\Debug\OpenTK.GLControl.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\bin\Debug\System.Buffers.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\bin\Debug\System.Memory.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\obj\Debug\bzk111.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\obj\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\obj\Debug\LoRaYerIstasyonu.Form1.resources
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\obj\Debug\bzk111.Properties.Resources.resources
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\obj\Debug\bzk111.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\obj\Debug\bzk111.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\obj\Debug\bzk111.csproj.Up2Date
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\obj\Debug\bzk111.exe
+C:\Users\pc\Desktop\Bozok Final Countdown - V1.8\bzk111\obj\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\bin\Debug\Models\payload.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\bin\Debug\Models\pg.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\bin\Debug\Models\rocket.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\bin\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\bin\Debug\bzk111.exe
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\bin\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\bin\Debug\GMap.NET.Core.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\bin\Debug\OpenTK.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\bin\Debug\OpenTK.GLControl.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\bin\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\bin\Debug\System.Memory.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\bin\Debug\OpenTK.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\bin\Debug\OpenTK.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\bin\Debug\OpenTK.GLControl.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\bin\Debug\System.Buffers.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\bin\Debug\System.Memory.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\obj\Debug\bzk111.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\obj\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\obj\Debug\LoRaYerIstasyonu.Form1.resources
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\obj\Debug\bzk111.Properties.Resources.resources
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\obj\Debug\bzk111.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\obj\Debug\bzk111.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\obj\Debug\bzk111.csproj.Up2Date
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\obj\Debug\bzk111.exe
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.0\bzk111\obj\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\bin\Debug\Models\payload.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\bin\Debug\Models\pg.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\bin\Debug\Models\rocket.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\bin\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\bin\Debug\bzk111.exe
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\bin\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\bin\Debug\GMap.NET.Core.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\bin\Debug\OpenTK.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\bin\Debug\OpenTK.GLControl.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\bin\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\bin\Debug\System.Memory.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\bin\Debug\OpenTK.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\bin\Debug\OpenTK.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\bin\Debug\OpenTK.GLControl.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\bin\Debug\System.Buffers.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\bin\Debug\System.Memory.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\obj\Debug\bzk111.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\obj\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\obj\Debug\LoRaYerIstasyonu.Form1.resources
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\obj\Debug\bzk111.Properties.Resources.resources
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\obj\Debug\bzk111.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\obj\Debug\bzk111.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\obj\Debug\bzk111.csproj.Up2Date
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\obj\Debug\bzk111.exe
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.1\bzk111\obj\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\bin\Debug\Models\payload.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\bin\Debug\Models\pg.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\bin\Debug\Models\rocket.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\bin\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\bin\Debug\bzk111.exe
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\bin\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\bin\Debug\GMap.NET.Core.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\bin\Debug\OpenTK.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\bin\Debug\OpenTK.GLControl.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\bin\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\bin\Debug\System.Memory.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\bin\Debug\OpenTK.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\bin\Debug\OpenTK.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\bin\Debug\OpenTK.GLControl.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\bin\Debug\System.Buffers.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\bin\Debug\System.Memory.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\obj\Debug\bzk111.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\obj\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\obj\Debug\LoRaYerIstasyonu.Form1.resources
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\obj\Debug\bzk111.Properties.Resources.resources
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\obj\Debug\bzk111.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\obj\Debug\bzk111.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\obj\Debug\bzk111.csproj.Up2Date
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\obj\Debug\bzk111.exe
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.2\bzk111\obj\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\bin\Debug\Models\payload.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\bin\Debug\Models\pg.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\bin\Debug\Models\rocket.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\bin\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\bin\Debug\bzk111.exe
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\bin\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\bin\Debug\GMap.NET.Core.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\bin\Debug\OpenTK.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\bin\Debug\OpenTK.GLControl.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\bin\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\bin\Debug\System.Memory.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\bin\Debug\OpenTK.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\bin\Debug\OpenTK.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\bin\Debug\OpenTK.GLControl.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\bin\Debug\System.Buffers.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\bin\Debug\System.Memory.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\obj\Debug\bzk111.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\obj\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\obj\Debug\LoRaYerIstasyonu.Form1.resources
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\obj\Debug\bzk111.Properties.Resources.resources
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\obj\Debug\bzk111.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\obj\Debug\bzk111.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\obj\Debug\bzk111.csproj.Up2Date
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\obj\Debug\bzk111.exe
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.3\bzk111\obj\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\obj\Debug\bzk111.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\obj\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\obj\Debug\LoRaYerIstasyonu.Form1.resources
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\obj\Debug\bzk111.Properties.Resources.resources
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\obj\Debug\bzk111.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\obj\Debug\bzk111.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\obj\Debug\bzk111.exe
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\obj\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\bin\Debug\Models\payload.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\bin\Debug\Models\pg.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\bin\Debug\Models\rocket.obj
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\bin\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\bin\Debug\bzk111.exe
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\bin\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\bin\Debug\GMap.NET.Core.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\bin\Debug\OpenTK.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\bin\Debug\OpenTK.GLControl.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\bin\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\bin\Debug\System.Memory.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\bin\Debug\OpenTK.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\bin\Debug\OpenTK.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\bin\Debug\OpenTK.GLControl.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\bin\Debug\System.Buffers.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\bin\Debug\System.Memory.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Desktop\Bozok Final Countdown - V2.4\bzk111\obj\Debug\bzk111.csproj.Up2Date
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\obj\Debug\bzk111.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\obj\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\obj\Debug\LoRaYerIstasyonu.Form1.resources
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\obj\Debug\bzk111.Properties.Resources.resources
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\obj\Debug\bzk111.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\obj\Debug\bzk111.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\obj\Debug\bzk111.exe
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\obj\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\bin\Debug\Models\payload.obj
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\bin\Debug\Models\pg.obj
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\bin\Debug\Models\rocket.obj
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\bin\Debug\bzk111.exe.config
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\bin\Debug\bzk111.exe
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\bin\Debug\bzk111.pdb
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\bin\Debug\GMap.NET.Core.dll
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\bin\Debug\OpenTK.dll
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\bin\Debug\OpenTK.GLControl.dll
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\bin\Debug\System.Buffers.dll
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\bin\Debug\System.Memory.dll
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\bin\Debug\OpenTK.pdb
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\bin\Debug\OpenTK.xml
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\bin\Debug\OpenTK.GLControl.xml
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\bin\Debug\System.Buffers.xml
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\bin\Debug\System.Memory.xml
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pc\Desktop\Roket\Bozok Final Countdown - V2.4\bzk111\obj\Debug\bzk111.csproj.Up2Date
